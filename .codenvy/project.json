@@ -1,0 +1,1 @@
+{"description":"tete","builders":{"default":"maven"},"type":"maven","attributes":{"language":["java"]}}
